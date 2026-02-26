@@ -1,0 +1,16 @@
+CATEGORY: random_numbers
+Algorithm,Mean Time 10_2 (us),Mean Mem 10_2 (MB),Mean Time 10_3 (us),Mean Mem 10_3 (MB),Mean Time 10_4 (us),Mean Mem 10_4 (MB),Mean Time 10_5 (us),Mean Mem 10_5 (MB),Mean Time 10_6 (us),Mean Mem 10_6 (MB)
+Ska Sort,200.54,0.06,562.58,0.07,969.00,0.11,6061.12,0.45,51003.48,3.88
+
+CATEGORY: ascending
+Algorithm,Mean Time 10_2 (us),Mean Mem 10_2 (MB),Mean Time 10_3 (us),Mean Mem 10_3 (MB),Mean Time 10_4 (us),Mean Mem 10_4 (MB),Mean Time 10_5 (us),Mean Mem 10_5 (MB),Mean Time 10_6 (us),Mean Mem 10_6 (MB)
+Ska Sort,340.66,0.06,420.30,0.07,1152.84,0.11,3694.76,0.45,25215.38,3.88
+
+CATEGORY: descending
+Algorithm,Mean Time 10_2 (us),Mean Mem 10_2 (MB),Mean Time 10_3 (us),Mean Mem 10_3 (MB),Mean Time 10_4 (us),Mean Mem 10_4 (MB),Mean Time 10_5 (us),Mean Mem 10_5 (MB),Mean Time 10_6 (us),Mean Mem 10_6 (MB)
+Ska Sort,143.50,0.06,632.52,0.07,1101.40,0.11,4940.02,0.45,37365.14,3.88
+
+CATEGORY: partially_sorted
+Algorithm,Mean Time 10_2 (us),Mean Mem 10_2 (MB),Mean Time 10_3 (us),Mean Mem 10_3 (MB),Mean Time 10_4 (us),Mean Mem 10_4 (MB),Mean Time 10_5 (us),Mean Mem 10_5 (MB),Mean Time 10_6 (us),Mean Mem 10_6 (MB)
+Ska Sort,294.74,0.06,449.92,0.07,1212.72,0.11,4324.28,0.45,25593.78,3.88
+
